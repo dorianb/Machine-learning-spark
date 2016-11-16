@@ -16,7 +16,7 @@ La ligne de commande suivante permet de sousmettre un job spark pour l'entraîne
  
  Plusieurs paramètres sont à renseigner:
  ```
- -p <le chemin vers le dossier contenant le fichier d'entrée et le fhcihier de sortie>
- -i <nom du fichier d'entrée au format parquet, correspond aux données d'entrainement nétoyées>
+ -p <le chemin vers le dossier contenant le fichier d'entrée et le fichier de sortie>
+ -i <nom du fichier d'entrée au format parquet, correspond aux données d'entrainement nettoyées>
  -o <nom fichier de sortie au format model, correspond aux modèle entrâiné à persister>
  ```
