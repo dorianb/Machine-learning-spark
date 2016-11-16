@@ -1,2 +1,2 @@
 # Machine-learning-spark
-Classification of Kepler planets with spark ml
+Exoplanets classification with spark ml
